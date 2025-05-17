@@ -9,7 +9,7 @@ Design and implement a small business network using Cisco Packet Tracer. The net
 - PCs (6 total): Two per department
 - DHCP Server (1): Assigns IP addresses to all devices
 
-## Network Desing
+## Network Design
 
 | Department | VLAN ID | IP Range         | Devices             |
 |------------|---------|------------------|---------------------|
